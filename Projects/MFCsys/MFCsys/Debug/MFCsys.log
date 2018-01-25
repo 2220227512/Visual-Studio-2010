@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/5/5 19:55:31。
+     1>项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MFCsys\MFCsys\MFCsys.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\MFCsys.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         f:\c语言视频\vs2010 Instins\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MFCsys\Debug\MFCsys.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\MFCsys.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MFCsys\Debug\MFCsys.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MFCsys\Debug\MFCsys.lib" /MACHINE:X86 Debug\MFCsys.res
+         Debug\MFCsys.exe.embed.manifest.res
+         Debug\MFCsys.obj
+         Debug\MFCsysDlg.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1123: 转换到 COFF 期间失败: 文件无效或损坏
+     1>已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MFCsys\MFCsys\MFCsys.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.47

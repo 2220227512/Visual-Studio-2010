@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/5/4 21:17:08。
+     1>项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Hello2017\Hello2017\Hello2017.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Hello2017.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       GenerateTargetFrameworkMonikerAttribute:
+       正在跳过目标“GenerateTargetFrameworkMonikerAttribute”，因为所有输出文件相对于输入文件而言都是最新的。
+       ClCompile:
+         f:\c语言视频\vs2010 Instins\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D _MBCS /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /analyze- /errorReport:prompt Hello.cpp /clr:nostdlib 
+         Hello.cpp
+         所有输出均为最新。
+       Link:
+         f:\c语言视频\vs2010 Instins\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Hello2017\Debug\Hello2017.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Hello2017.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Hello2017\Debug\Hello2017.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Hello.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Hello2017.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Hello2017\Debug\Hello2017.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Hello2017\Debug\Hello2017.exe;#1" /manifest Debug\Hello2017.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Hello2017.unsuccessfulbuild”。
+         正在对“Debug\Hello2017.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Hello2017\Hello2017\Hello2017.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.55
